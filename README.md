@@ -6,7 +6,7 @@
 
 *Building at the intersection of high-performance computing, artificial intelligence, and interactive software.*
 
-<a href="https://linkedin.com/in/abdirahman-ahmed-hussein"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="mailto:halakekulmiye@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdirahman-ahmed-hussein-9b82a12b3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>   <a href="mailto:halakekulmiye@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
