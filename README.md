@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/ShaderLab-333333?style=flat-square&logo=unity&logoColor=white"/>
 
 ---
-<!--
+
 ## Featured Projects
 
 ### 🖐 [ASL Alphabet Recognition](https://github.com/retzy-l/ASL-Alphabet-Recognition)
@@ -54,7 +54,7 @@ Cross-platform productivity suite combining project management, **WebSocket-driv
 3D action/stealth game built in **Unity** featuring modular UI architecture, custom shader work, and dynamic economy systems.
 
 ---
--->
+
 ## GitHub Stats
 
 <div align="center">
